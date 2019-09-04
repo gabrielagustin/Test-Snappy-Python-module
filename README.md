@@ -2,7 +2,14 @@
 
 
 
+Dependences:
 
-References:
+    python - Pandas
+    python - NumPy
+    python - Matplolib
+    python - Snappy
 
-http://remote-sensing.eu/preprocessing-of-sentinel-1-sar-data-via-snappy-python-module/
+
+Page source:
+
+ http://remote-sensing.eu/preprocessing-of-sentinel-1-sar-data-via-snappy-python-module/
