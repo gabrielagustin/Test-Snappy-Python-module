@@ -29,9 +29,7 @@ My summary from: https://senbox.atlassian.net/wiki/spaces/SNAP/pages/50855941/Co
 
     SNAP-Python interface is located in '/home/User/.snap/snap-python/snappy'
 
-    copy the 'snappy' module into your Python's 'site-packages' directory
-
-    use python -m site to see the directory
+    Copy the 'snappy' module into your Python's 'site-packages' directory (use python -m site to see the directory)
 
 
 
